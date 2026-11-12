@@ -1,0 +1,12 @@
+{
+  "id": "chat-change-review",
+  "name": "Chat Change Review",
+  "description": "Review the files an agent changed in a chat and send line comments back to it",
+  "translations": {
+    "ko": {
+      "name": "대화 변경 리뷰",
+      "description": "대화에서 에이전트가 바꾼 파일을 보고 줄 단위 댓글을 에이전트에게 보냅니다"
+    }
+  },
+  "requirements": { "paseo": ">=0.15.4" }
+}
